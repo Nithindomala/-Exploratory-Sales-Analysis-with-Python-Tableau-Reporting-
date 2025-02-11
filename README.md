@@ -33,7 +33,7 @@ This project analyzes sales data to derive key business insights. It includes da
 ## Dashboards & Visualizations
 
 ### Tableau Dashboard  
-- [Tableau Dashboard - Sales Analysis](C:\Users\nithi\OneDrive\Desktop\Data analyst notes\Projects\sales analysis with python\Screenshot 2025-02-11 193928.png)  
+- [Tableau Dashboard - Sales Analysis](https://github.com/Nithindomala/-Exploratory-Sales-Analysis-with-Python-Tableau-Reporting-/blob/main/Screenshot%202025-02-11%20193928.png)  
 - [View Tableau Dashboard](https://public.tableau.com/views/SalesAnalysisDashboard_17392852221540/SalesAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to Run:
@@ -44,5 +44,5 @@ This project analyzes sales data to derive key business insights. It includes da
 
 ## GitHub Repository:
 You can find the Python code and analysis in my GitHub repository:  
-[Click here to view the repository](https://github.com/yourusername/sales-analysis)
+[Click here to view the repository](https://github.com/Nithindomala)
 St

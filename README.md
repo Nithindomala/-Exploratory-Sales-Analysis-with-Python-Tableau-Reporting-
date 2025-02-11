@@ -33,10 +33,16 @@ This project analyzes sales data to derive key business insights. It includes da
 ## Dashboards & Visualizations
 
 ### Tableau Dashboard  
-![Tableau Dashboard - Sales Analysis]("C:\Users\nithi\OneDrive\Desktop\Data analyst notes\Projects\sales analysis with python\Screenshot 2025-02-11 193928.png")  
-[View Tableau Dashboard]((https://public.tableau.com/views/SalesAnalysisDashboard_17392852221540/SalesAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Tableau Dashboard - Sales Analysis](C:\Users\nithi\OneDrive\Desktop\Data analyst notes\Projects\sales analysis with python\Screenshot 2025-02-11 193928.png)  
+- [View Tableau Dashboard](https://public.tableau.com/views/SalesAnalysisDashboard_17392852221540/SalesAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## How to Run  
-1. Clone the repository  
-2. Open `sales_analysis.ipynb` to explore the analysis  
-3. Use `sales_data_cleaned.csv` for further visualization  
+## How to Run:
+1. Clone the repository:
+   `git clone https://github.com/yourusername/sales-analysis.git`
+2. Open `sales_analysis.ipynb` in **Jupyter Notebook** to explore the analysis.
+3. Use `sales_data_cleaned.csv` for further exploration and visualization.
+
+## GitHub Repository:
+You can find the Python code and analysis in my GitHub repository:  
+[Click here to view the repository](https://github.com/yourusername/sales-analysis)
+St

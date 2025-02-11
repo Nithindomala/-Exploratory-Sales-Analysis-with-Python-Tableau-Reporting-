@@ -45,4 +45,4 @@ This project analyzes sales data to derive key business insights. It includes da
 ## GitHub Repository:
 You can find the Python code and analysis in my GitHub repository:  
 [Click here to view the repository](https://github.com/Nithindomala)
-St
+

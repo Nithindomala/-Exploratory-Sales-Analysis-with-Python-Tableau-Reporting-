@@ -38,7 +38,7 @@ This project analyzes sales data to derive key business insights. It includes da
 
 ## How to Run:
 1. Clone the repository:
-   `git clone https://github.com/yourusername/sales-analysis.git`
+   `https://github.com/Nithindomala/Exploratory-Sales-Analysis-with-Python-Tableau-Reporting.git`
 2. Open `sales_analysis.ipynb` in **Jupyter Notebook** to explore the analysis.
 3. Use `sales_data_cleaned.csv` for further exploration and visualization.
 
